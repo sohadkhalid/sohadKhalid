@@ -25,7 +25,7 @@
 - ### 📱 WhatsApp UI Clone - Demo
 [![Watch the video](https://img.youtube.com/vi/sHnL6YQRxds/hqdefault.jpg)](https://youtu.be/sHnL6YQRxds)
 
-- ### 📱 signup UI Clone - Demo
+- ### 📱 signIN UI Clone - Demo
 [![Watch the video](https://img.youtube.com/vi/xc2w3zL_xeY/hqdefault.jpg)](https://youtu.be/xc2w3zL_xeY)
 )
 
@@ -33,10 +33,7 @@
 
 ---
 
-### 🔐 Sign-In Page UI - Demo
-[![Watch the video](https://img.youtube.com/vi/rydkTAdTFhM/hqdefault.jpg)](https://youtu.be/rydkTAdTFhM)
 
----
 
 ### 📫 Contact Me
 
