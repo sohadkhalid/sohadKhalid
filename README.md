@@ -21,6 +21,21 @@
 
 - 🔗 [Footec App (Preview)](https://github.com/Ena1ismail/Foodtek-app/blob/main/lib/view/screens/registration_screens/success_reset_password_screen.dart)
 
+  
+- ### 📱 WhatsApp UI Clone - Demo
+[![Watch the video](https://img.youtube.com/vi/sHnL6YQRxds/hqdefault.jpg)](https://youtu.be/sHnL6YQRxds)
+
+- ### 📱 signup UI Clone - Demo
+[![Watch the video](https://img.youtube.com/vi/xc2w3zL_xeY/hqdefault.jpg)](https://youtu.be/xc2w3zL_xeY)
+)
+
+
+
+---
+
+### 🔐 Sign-In Page UI - Demo
+[![Watch the video](https://img.youtube.com/vi/rydkTAdTFhM/hqdefault.jpg)](https://youtu.be/rydkTAdTFhM)
+
 ---
 
 ### 📫 Contact Me
